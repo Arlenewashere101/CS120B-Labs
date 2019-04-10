@@ -4,7 +4,14 @@
  * Created: 4/8/2019 4:01:43 PM
  * Author : arlen
  */ 
-
+/*	arlene gonzalez agonz101@ucr.edu
+ *	Lab Section: 022
+ *	Assignment: Lab #3  Exercise #1 
+ *	Exercise Description: [optional - include for your own benefit]
+ *	
+ *	I acknowledge all content contained herein, excluding template or example
+ *	code, is my own original work.
+ */
 
 #include <avr/io.h>
 
