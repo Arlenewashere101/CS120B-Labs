@@ -60,7 +60,7 @@ int main(void)
 		{
 			if(Bit1==0x02)
 			{
-				shiftWeightTotal=shiftWeightTotal+0x02;
+				shiftWeightTotal=shiftWeightTotal+0x03;
 			}
 			else
 			{
